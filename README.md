@@ -1,2 +1,3 @@
 # Prodigy_ML_01
-Intern at Prodigy Infotech, working on Machine Learning projects. This repository stores my projects and implementations.
+Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
+<br>Dataset : - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
